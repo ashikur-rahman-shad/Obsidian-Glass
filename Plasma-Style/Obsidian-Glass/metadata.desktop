@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Obsidian-Glass
+Comment=MacOS Like Obsidian Glass Theme Forked From WhiteSur
+
+X-KDE-PluginInfo-Author=Ashikur Rahman Shad
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=ashikur.rahman.shad.arstrx@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=
+X-KDE-PluginInfo-Name=Obsidian-Glass
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-Plasma-API=5.0
+
+[BlurBehindEffect]
+enabled=true

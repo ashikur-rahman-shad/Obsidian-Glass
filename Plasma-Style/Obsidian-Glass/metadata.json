@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "ashikur.rahman.shad.arstrx@gmail.com",
+                "Name": "Ashikur Rahman Shad"
+            }
+        ],
+        "Category": "Plasma 6.0 theme",
+        "Description": "MacOS Like Obsidian Glass Theme Forked From WhiteSur",
+        "EnabledByDefault": true,
+        "Id": "Obsidian-Glass",
+        "License": "GPL-3.0",
+        "Name": "Obsidian-Glass",
+        "Version": "1.0",
+        "Website": ""
+    },
+    "X-Plasma-API": "5.0"
+}
