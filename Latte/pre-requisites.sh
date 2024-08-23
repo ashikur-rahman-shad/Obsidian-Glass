@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the source and destination directories
-SOURCE_DIR="./plasmoid"
+SOURCE_DIR="./plasmoids"
 DEST_DIR="$HOME/.local/share/plasma/plasmoids"
 
 # Ensure the destination directory exists
