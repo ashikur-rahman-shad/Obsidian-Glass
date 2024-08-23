@@ -1,0 +1,1 @@
+cp -f ObsidianGlass.colors $HOME/.local/share/color-schemes/
