@@ -17,9 +17,9 @@ for folder in "$SOURCE_DIR"/*; do
     if [ ! -d "$DEST_DIR/$folder_name" ]; then
       # Copy the folder to the destination
       cp -r "$folder" "$DEST_DIR"
-      echo "Copied $folder_name to $DEST_DIR"
+      echo "Installed: $folder_name"
     else
-      echo "Folder $folder_name already exists in $DEST_DIR. Skipping."
+      echo "$folder_name already exists in $DEST_DIR. Skipping."
     fi
   fi
 done
