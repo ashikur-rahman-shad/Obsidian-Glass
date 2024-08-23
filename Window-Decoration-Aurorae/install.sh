@@ -9,7 +9,7 @@ mkdir -p "$THEME_DIR"
 cp -r "$THEME_NAME" "$THEME_DIR/"
 
 # Set the theme as the current window decoration with no borders
-kwriteconfig5 --file ~/.config/kwinrc --group org.kde.kdecoration2 --key theme "$THEME_NAME"
+kwriteconfig5 --file ~/.config/kwinrc --group org.kde.kdecoration2 --key theme "__aurorae__svg__$THEME_NAME"
 kwriteconfig5 --file ~/.config/kwinrc --group org.kde.kdecoration2 --key BorderSize "None"
 
 # Set the title buttons to the left side with 'XIA' (Close, Maximize, Minimize)
